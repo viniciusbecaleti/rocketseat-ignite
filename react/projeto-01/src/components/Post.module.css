@@ -59,6 +59,7 @@
 }
 
 .content a {
+  display: inline-block;
   font-weight: 700;
   color: var(--green-500);
   text-decoration: none;
