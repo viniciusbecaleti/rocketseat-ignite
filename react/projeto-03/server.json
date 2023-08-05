@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "description": "Ignite",
+      "category": "Curso",
+      "price": 1800,
+      "type": "outcome",
+      "createdAt": "2023-07-18T18:40:16.493Z",
+      "id": 1
+    },
+    {
+      "description": "Teste",
+      "category": "teste",
+      "price": 10,
+      "type": "income",
+      "createdAt": "2023-07-29T22:14:03.744Z",
+      "id": 2
+    }
+  ]
+}
